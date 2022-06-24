@@ -31,4 +31,4 @@ public class Prenda {
 	  public void setTela(Tela tela) {
 	    this.tela = tela;
 	  }
-}
+}//
